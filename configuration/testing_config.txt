@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameoflife name="testExperiment">
+<map>
+<height>100</height>
+<width>80</width>
+<speed>1</speed>
+</map>
+<plants count="6">
+<health>
+15
+</health>
+<youth>10</youth>
+<maturity>10</maturity>
+<oldness>10</oldness>
+</plants>
+<herbivorous count="14">
+<health>15</health>
+<youth>10</youth>
+<maturity>10</maturity>
+<oldness>10</oldness>
+<strength>13</strength>
+<courage>12</courage>
+<speed>12</speed>
+<hunger>80</hunger>
+<firsthunger>10</firsthunger>
+<secondhunger>60</secondhunger>
+</herbivorous>
+<predators>
+
+</predators>
+</gameoflife>
