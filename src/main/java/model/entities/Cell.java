@@ -80,6 +80,6 @@ abstract public class Cell implements java.io.Serializable {
 		
 		return type + " {" + x + "," + y + "} " + status;
 	}
-	
-	
+
+
 }

@@ -186,4 +186,8 @@ public class Specimen extends Cell {
     public void setCourage(int courage) {
         this.basicCourage = courage;
     }
+
+    public void setSpeed(int speed) {
+		this.currentSpeed = speed;
+    }
 }

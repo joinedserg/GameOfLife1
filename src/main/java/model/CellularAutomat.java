@@ -35,14 +35,30 @@ public class CellularAutomat implements java.io.Serializable {
 		cells.add(new Herbivorous(1,2));
 		
 		cells.add(new Herbivorous(50,12));
-		
-		
+		cells.add(new Herbivorous(51,12));
+		cells.add(new Herbivorous(52,12));
+
+
+
 		//cells.add(new Plant(2,2));
 		//cells.add(new Plant(3,3));
 		
 		cells.add(new Plant(55,14));
 		cells.add(new Plant(65,14));
 		cells.add(new Plant(56,14));
+		cells.add(new Plant(57,14));
+		cells.add(new Plant(58,14));
+		cells.add(new Plant(59,14));
+		cells.add(new Plant(65,10));
+		cells.add(new Plant(56,16));
+		cells.add(new Plant(57,17));
+		cells.add(new Plant(58,18));
+		cells.add(new Plant(59,19));
+		cells.add(new Plant(59,10));
+		cells.add(new Plant(56,17));
+		cells.add(new Plant(57,18));
+		cells.add(new Plant(58,19));
+		cells.add(new Plant(59,20));
 		/*cells.add(new Herbivorous(3,4));
 		cells.add(new Herbivorous(4,4));
 		cells.add(new Herbivorous(4,5));
