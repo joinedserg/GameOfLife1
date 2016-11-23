@@ -17,7 +17,7 @@ import model.CellularAutomat;
 
 import javax.xml.parsers.ParserConfigurationException;
 
-
+//
 public class Program {
 
     static int Width = 80;
